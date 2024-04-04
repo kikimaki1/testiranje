@@ -1,0 +1,6 @@
+hello world
+world
+promjena linije 3
+
+dodano nesto novo
+
